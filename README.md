@@ -6,3 +6,6 @@ python main.py --l_r=0.0005 --weight_decay=0.1 --batch_size=1024 --num_workers=3
 
 ### Reference
 <a href = "https://github.com/weiyinwei/MMGCN"> MMGCN </a>
+
+### environment
+requirements.txt
